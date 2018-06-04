@@ -368,12 +368,7 @@
           ]
         }
       ],
-      "skpdname": 29
-    },
-    {
-      "id": 2,
-      "data": "some data",
-      "skpdname": 2
+      "skpdId": 29
     }
   ]
 }
