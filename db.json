@@ -369,6 +369,257 @@
         }
       ],
       "skpdlistId": 29
+    },
+    {
+      "id": 1,
+      "data": [
+        {
+          "RelativeStatisticName": "PKBM",
+          "statistic": [
+            {
+              "region": "Binuang",
+              "statisticName": "Sasangga Banua",
+              "total": 425,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Hatungun",
+              "statisticName": "Mitra Kencana",
+              "total": 0,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Tapin Selatan",
+              "statisticName": "Setia Kawan",
+              "total": 138,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Salam Babaris",
+              "statisticName": "Insan peduli",
+              "total": 90,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Tapin Tengah",
+              "statisticName": "Ruhui Rahayu",
+              "total": 134,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Piani",
+              "statisticName": "Sirang Pitu",
+              "total": 214,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Tapin Utara",
+              "statisticName": "Lathiiful Khabiir",
+              "total": 137,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Tapin Utara",
+              "statisticName": "Al Mukaromah Banua Halat",
+              "total": 98,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Bakarangan",
+              "statisticName": "Karya Muda",
+              "total": 147,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Bakarangan",
+              "statisticName": "Al Miftah",
+              "total": 115,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Candi Laras Utara",
+              "statisticName": "Pangeran Muhammad Al-Fatih",
+              "total": 84,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Candi Laras Selatan",
+              "statisticName": "None",
+              "total": 0,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Lokpaikat",
+              "statisticName": "None",
+              "total": 0,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Bungur",
+              "statisticName": "None",
+              "total": 0,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            }
+          ]
+        },
+        {
+          "RelativeStatisticName": "Jumblah Sekolah",
+          "statistic": [
+            {
+              "region": "Binuang",
+              "statisticName": "Binuang",
+              "total": 33,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Hatungun",
+              "statisticName": "Hatungun",
+              "total": 12,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Tapin Selatan",
+              "statisticName": "Tapin Selatan",
+              "total": 24,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Salam Babaris",
+              "statisticName": "Salam Babaris",
+              "total": 15,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Tapin Tengah",
+              "statisticName": "Tapin Tengah",
+              "total": 23,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Bungur",
+              "statisticName": "Bungur",
+              "total": 15,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Piani",
+              "statisticName": "Piani",
+              "total": 12,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Lokpaikat",
+              "statisticName": "Lokpaikat",
+              "total": 9,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Tapin Utara",
+              "statisticName": "Tapin Utara",
+              "total": 21,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Bakarangan",
+              "statisticName": "Bakarangan",
+              "total": 13,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Candi Laras Selatan",
+              "statisticName": "Candi Laras Selatan",
+              "total": 17,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            },
+            {
+              "region": "Candi Laras Selatan",
+              "statisticName": "Candi Laras Selatan",
+              "total": 21,
+              "period": {
+                "applyDate":"2018",
+                "apply":"yearly"
+              }
+            }
+
+          ]
+        }
+      ],
+      "skpdlistId": 28
     }
   ]
 }
